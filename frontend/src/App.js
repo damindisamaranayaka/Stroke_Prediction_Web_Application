@@ -41,7 +41,7 @@ function App() {
       <h1 className="title">
         <span>Stroke Prediction</span>
       </h1>
-
+      <div className="background"></div> 
       <span className="run run-left" style={{ animationDelay: "0s" }}></span>
       <span className="run run-right" style={{ animationDelay: "0.2s" }}></span>
       <span className="run run-left" style={{ animationDelay: "0.4s" }}></span>
