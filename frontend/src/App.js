@@ -204,6 +204,9 @@ function App() {
         <button type="submit">Predict Stroke</button>
       </form>
       </div>
+      
+
+
 
     </div>
   );
